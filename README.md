@@ -159,7 +159,7 @@ Este projeto não deve ser utilizado em ambientes de produção sem uma avaliaç
 
 O manual técnico apresenta o desenvolvimento passo a passo, os fundamentos técnicos, a implementação e as evidências reais dos testes realizados.
 
-[Consultar o Manual Técnico — HANDS-ON #11 (PDF)](docs/HANDS-ON_11_Manual_Tecnico_SQL_Injection.pdf)
+[Consultar o Manual Técnico — HANDS-ON #11 (PDF)](/HandsOn11-OwaspTop10/blob/main/HandsOn11.Api/docs/HANDS-ON_11_Manual_Tecnico_SQL_Injection.pdf)
 
 ## 12. Competências exploradas
 
