@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+**/bin/
+**/obj/
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+
+# Logs
+logs/
+*.log
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+appsettings.*.local.json
